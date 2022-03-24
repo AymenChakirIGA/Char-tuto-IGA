@@ -88,6 +88,8 @@ exemple sur strcpy :
 #include<stdlib.h>
 #include<string.h>
 
+YOU KNOW
+
 int main()
 {
 char tex1[25] , tex2[25];
